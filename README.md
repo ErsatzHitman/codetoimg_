@@ -2,8 +2,6 @@
 
 Create stunning, customizable images from your code snippets effortlessly. With this tool, you can write code in various programming languages, select different themes, backgrounds, and padding, and then export the beautifully rendered code as an image. Perfect for sharing your code snippets on blogs, social media, or in presentations!
 
-![Project Demo](./path/to/image.png)
-
 ## 🚀 Features
 
 - **🖥️ Multi-Language Code Editor**: Supports popular languages like **JavaScript**, **HTML**, **CSS**, **Python**, **Java**, and **TypeScript**.
@@ -16,7 +14,7 @@ Create stunning, customizable images from your code snippets effortlessly. With 
 
 ## 🎬 Demo
 
-![Demo GIF](./path/to/demo.gif)
+
 
 ## 🛠️ Installation
 
@@ -24,7 +22,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/code-to-image.git
+    git clone https://github.com/ErsatzHitman/codetoimg_
     ```
    
 2. **Install Dependencies**:
@@ -63,11 +61,16 @@ Follow these steps to run the project locally:
 
 ### Editor Preview
 
-![Editor Screenshot](./path/to/screenshot-editor.png)
+![Screenshot 2024-08-23 113641](https://github.com/user-attachments/assets/5d8d7ad5-cbe6-416b-9869-5c0270c6827e)
+![Screenshot 2024-08-23 113648](https://github.com/user-attachments/assets/afaddf80-67b5-4097-9582-a3c7c0d26bb6)
+![Screenshot 2024-08-23 113657](https://github.com/user-attachments/assets/47e09aa1-46c2-4d7f-a3a4-06c623fd9165)
+![Screenshot 2024-08-23 114445](https://github.com/user-attachments/assets/1d6e60d8-bee0-4ff3-a9d2-e9646c9c8d10)
+![Screenshot 2024-08-23 113518](https://github.com/user-attachments/assets/9417872e-3334-4fd1-b2d8-df012a09bbcb)
+
 
 ### Exported Image Example
 
-![Exported Image Example](./path/to/screenshot-exported-image.png)
+![code (4)](https://github.com/user-attachments/assets/2af59d88-ce51-40d6-aff5-c1e966c3c359)
 
 ## 🛠️ Technologies Used
 
