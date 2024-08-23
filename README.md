@@ -1,6 +1,6 @@
 # 🌟 Code to Image Generator
 
-Create stunning, customizable images from your code snippets effortlessly. With this tool, you can write code in various programming languages, select different themes, backgrounds, and padding, and then export the beautifully rendered code as an image. Perfect for sharing your code snippets on blogs, social media, or in presentations!
+With this tool, you can easily turn your code into beautiful, shareable images. Simply write your code in one of several supported languages, choose a theme that suits your style, and customize the background and padding to get the perfect look. When you're happy with the result, export your creation as a PNG and share it anywhere – whether it's on a blog, social media, or in a presentation. It’s a quick and simple way to make your code look great!
 
 ## 🚀 Features
 
