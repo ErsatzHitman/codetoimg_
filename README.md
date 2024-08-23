@@ -12,10 +12,6 @@ With this tool, you can easily turn your code into beautiful, shareable images. 
 - **🔧 Resizable Editor**: Easily resize the editor by dragging the edges to fit your preferred layout.
 - **⚡ Real-Time Preview**: See live updates as you adjust your code, theme, background, and padding in real-time.
 
-## 🎬 Demo
-
-https://drive.google.com/file/d/1OWpqw8j6EwsVUemMPpTshEcsAnQheRPB/view?usp=sharing
-
 ## 🛠️ Installation
 
 Follow these steps to run the project locally:
@@ -57,6 +53,10 @@ Follow these steps to run the project locally:
   - Solid colors
   - Gradient colors (e.g., `linear-gradient(354deg,#ff75b5,#ffb86c)`)
 
+## 🎬 Demo
+
+Check out the video demo [here](https://drive.google.com/file/d/1OWpqw8j6EwsVUemMPpTshEcsAnQheRPB/view?usp=sharing)
+
 ## 📷 Screenshots
 
 ### Editor Preview
@@ -81,37 +81,3 @@ Follow these steps to run the project locally:
   - [html2canvas](https://html2canvas.hertzen.com/): Library for rendering the code editor as an image.
   - [Lucide Icons](https://lucide.dev/): Beautiful and customizable icons for UI components.
 
-## 🗂️ Project Structure
-
-```bash
-codeimg/
-├── .next/                         # Next.js build output
-├── app/                           # Next.js app folder
-│   ├── favicon.ico
-│   ├── globals.css                # Global styles using Tailwind CSS
-│   ├── layout.tsx                 # Application layout and metadata
-│   └── page.tsx                   # Main application page combining all components
-├── components/                    # React components for the project
-│   ├── BackgroundSelector.tsx     # Dropdown to select background style
-│   ├── CodeEditor.tsx             # Main code editor component using Ace Editor
-│   ├── Footer.tsx                 # Footer with links and credits
-│   ├── LanguageSelector.tsx       # Dropdown to select programming language
-│   ├── PaddingSelector.tsx        # Dropdown to adjust padding around code
-│   └── ThemeSelector.tsx          # Dropdown to select code theme
-├── node_modules/                  # Node.js packages
-├── public/                        # Public assets
-│   └── icons/
-│       ├── logo-white.svg         # Icon for the logo
-│       ├── next.svg               # Next.js logo
-│       └── vercel.svg             # Vercel logo
-├── utils/                         # Utility functions and constants
-│   └── utilities.tsx              # Utility functions and constants for themes, languages, etc.
-├── .gitignore                     # Files and folders to ignore in Git
-├── next-env.d.ts                  # TypeScript environment declaration for Next.js
-├── next.config.js                 # Next.js configuration file
-├── package-lock.json              # Auto-generated dependency lock file
-├── package.json                   # Project's dependencies and scripts
-├── postcss.config.js              # PostCSS configuration for Tailwind CSS
-├── README.md                      # Project documentation
-├── tailwind.config.ts             # Tailwind CSS configuration file
-└── tsconfig.json                  # TypeScript configuration file
